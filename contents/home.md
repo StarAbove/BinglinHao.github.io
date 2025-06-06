@@ -1,20 +1,7 @@
-[![XX](https://img.shields.io/badge/XX-github-blue?logo=github)](https://github.com/XX)
+### Binglin Hao's Academic Homepage
 
-I'm currently pursuing a Master's degree in XX at the Department of XX, XX University, XX.
+I am currently pursuing both my Bachelor’s and Master’s degrees at the [School of Computer Science](https://cs.whu.edu.cn), [Wuhan University](https://www.whu.edu.cn). My research interests lie in computer vision and machine learning, with a particular focus on unsupervised domain adaptation for semantic segmentation.
 
-#### Email  
-<code>XX@XX.XX</code>  
-<code>XX@XX.XX</code>
+Feel free to reach out:
 
-#### Education  
-**XX University**, Master of XX (XX – XX)  
-• GPA: XX/XX  
-
-**XX University**, Exchange student <br>  
-• As a XX, represented my college as an outstanding student for a XX exchange program.  
-
-**XX University**, Honours Bachelor of XX (XX – XX)  
-• GPA: XX/XX (top XX%)  
-
-#### Research Interests  
-XX, XX, XX, XX.
+[Email]() / [GitHub](https://github.com/StarAbove)
