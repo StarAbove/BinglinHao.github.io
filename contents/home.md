@@ -2,4 +2,4 @@ I am currently pursuing both my Bachelor’s and Master’s degrees at the [Scho
 
 Feel free to reach out:
 
-[Email]() / [GitHub](https://github.com/StarAbove)
+[Email](binglinhao@whu.edu.cn) / [GitHub](https://github.com/StarAbove)
